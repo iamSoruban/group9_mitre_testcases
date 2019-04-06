@@ -59,3 +59,4 @@ To confirm this, we can use Splunk to analyze.
 
 ![alt text](https://github.com/iamSoruban/group9_mitre_testcases/blob/iamSoruban-patch-1/Parent%20process%20Bginfo%20started%20calc-exe.png)
 *Figure 8: Parent process Bginfo started calc.exe*
+
